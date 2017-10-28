@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace BarrokasSoft\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
